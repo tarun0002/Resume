@@ -1,0 +1,24 @@
+body{
+    background: rgb(239, 236, 236);
+}
+.head h1{
+   display: flex;
+   justify-content: center;
+   text-decoration: underline;
+}
+.details h1{
+    background: gray;
+    color: white;
+}
+.details p , span{
+    font-size: 18px;
+}
+.details-acadimic td , th{
+  padding: 20px;
+  text-align: center;
+}
+.details-extra{
+    display: flex;
+    justify-content:space-between
+  
+}
